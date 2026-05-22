@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0448448c-d5ba-48fa-8023-dd901479514b" name="Changes" comment="Start">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uppgift2_Albin_Berge.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abbiz00"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abbiz00&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="47820735-aa3b-4eda-ac11-4fbc97d48936" />
   </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abbiz00/02_villkor",
+    "url": "https://github.com/Abbiz00/Albin_Berge_python-veckouppgift-2.git",
     "accountId": "47820735-aa3b-4eda-ac11-4fbc97d48936"
   }
 }]]></component>
@@ -66,6 +66,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/alberg/PycharmProjects/PythonProject/PythonProject/Albin_Berge_python-veckouppgift-2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +77,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alberg\PycharmProjects\PythonProject\PythonProject\Albin_Berge_python-veckouppgift-2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,6 +99,7 @@
       <updated>1779105938880</updated>
       <workItem from="1779105939726" duration="1369000" />
       <workItem from="1779108946148" duration="1917000" />
+      <workItem from="1779447096511" duration="769000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <option name="closed" value="true" />
