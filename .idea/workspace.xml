@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0448448c-d5ba-48fa-8023-dd901479514b" name="Changes" comment="Start">
+    <list default="true" id="0448448c-d5ba-48fa-8023-dd901479514b" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/uppgift2_Albin_Berge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift2_Albin_Berge.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,7 @@
       <workItem from="1779105939726" duration="1369000" />
       <workItem from="1779108946148" duration="1917000" />
       <workItem from="1779447096511" duration="769000" />
-      <workItem from="1779450767425" duration="6264000" />
+      <workItem from="1779450767425" duration="8436000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <option name="closed" value="true" />
@@ -151,7 +151,28 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1779459378820</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="Start">
+      <option name="closed" value="true" />
+      <created>1779460597117</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1779460597117</updated>
+    </task>
+    <task id="LOCAL−00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1779460616181</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1779460616181</updated>
+    </task>
+    <task id="LOCAL−00010" summary="update">
+      <option name="closed" value="true" />
+      <created>1779460780014</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1779460780014</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +180,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/02_villkor$main.coverage" NAME="main Coverage Results" MODIFIED="1779110603290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
