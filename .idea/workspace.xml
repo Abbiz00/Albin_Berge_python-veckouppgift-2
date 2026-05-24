@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0448448c-d5ba-48fa-8023-dd901479514b" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/test.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uppgift2_Albin_Berge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift2_Albin_Berge.ipynb" afterDir="false" />
     </list>
@@ -101,7 +102,7 @@
       <workItem from="1779105939726" duration="1369000" />
       <workItem from="1779108946148" duration="1917000" />
       <workItem from="1779447096511" duration="769000" />
-      <workItem from="1779450767425" duration="16082000" />
+      <workItem from="1779450767425" duration="23930000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <option name="closed" value="true" />
@@ -194,7 +195,14 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1779630281023</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1779630916403</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1779630916403</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
